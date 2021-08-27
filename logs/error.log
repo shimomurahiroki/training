@@ -1,0 +1,162 @@
+2021-08-18 07:23:32 Error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class Connection could not be found.  in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'Connection',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:212
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\ToolbarService.php:220
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+
+
+2021-08-18 07:24:03 Error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class Connection could not be found.  in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'Connection',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:212
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\ToolbarService.php:220
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+
+
+2021-08-18 07:24:26 Error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class Connection could not be found.  in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'Connection',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:212
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\ToolbarService.php:220
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+
+
+2021-08-18 07:24:27 Error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class Connection could not be found.  in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'Connection',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:212
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\ToolbarService.php:220
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+
+
+2021-08-18 08:51:12 Error: [Cake\Controller\Exception\MissingActionException] Action TestsController::helper() could not be found, or is not accessible. in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\Controller.php on line 510
+Exception Attributes: array (
+  'controller' => 'TestsController',
+  'action' => 'helper',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:100
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+Request URL: /Tests/helper
+
+
+2021-08-18 12:02:24 Error: [Cake\Http\Exception\MissingControllerException] Controller class Products could not be found. in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Products',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+Request URL: /Products
+
+
+2021-08-18 12:21:00 Error: [Cake\Http\Exception\MissingControllerException] Controller class Produxts could not be found. in C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 226
+Exception Attributes: array (
+  'class' => 'Produxts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:169
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:126
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\training\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\training\webroot\index.php:40
+
+Request URL: /produxts
+
+
